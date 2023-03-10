@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zeraume\\OneDrive\\Documents\\Kuliah\\Semester 4\\KPL\\tpmodul4_1302213133\\tpmodul4_1302213133\\tpmodul4_1302213133.csproj",
+      "projectUniqueName": "C:\\Users\\Zeraume\\OneDrive\\Documents\\GitHub\\tpmodul4_1302213133\\tpmodul4_1302213133\\tpmodul4_1302213133\\tpmodul4_1302213133.csproj",
       "projectName": "tpmodul4_1302213133",
-      "projectPath": "C:\\Users\\Zeraume\\OneDrive\\Documents\\Kuliah\\Semester 4\\KPL\\tpmodul4_1302213133\\tpmodul4_1302213133\\tpmodul4_1302213133.csproj",
+      "projectPath": "C:\\Users\\Zeraume\\OneDrive\\Documents\\GitHub\\tpmodul4_1302213133\\tpmodul4_1302213133\\tpmodul4_1302213133\\tpmodul4_1302213133.csproj",
       "packagesPath": "C:\\Users\\Zeraume\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zeraume\\OneDrive\\Documents\\Kuliah\\Semester 4\\KPL\\tpmodul4_1302213133\\tpmodul4_1302213133\\obj\\",
+      "outputPath": "C:\\Users\\Zeraume\\OneDrive\\Documents\\GitHub\\tpmodul4_1302213133\\tpmodul4_1302213133\\tpmodul4_1302213133\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zeraume\\AppData\\Roaming\\NuGet\\NuGet.Config",
